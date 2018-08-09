@@ -1,0 +1,12 @@
+C:\Projects\KaiRESTAPI\DataLib\bin\Debug\netcoreapp2.1\DataLib.deps.json
+C:\Projects\KaiRESTAPI\DataLib\bin\Debug\netcoreapp2.1\DataLib.dll
+C:\Projects\KaiRESTAPI\DataLib\bin\Debug\netcoreapp2.1\DataLib.pdb
+C:\Projects\KaiRESTAPI\DataLib\bin\Debug\netcoreapp2.1\Models.dll
+C:\Projects\KaiRESTAPI\DataLib\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Projects\KaiRESTAPI\DataLib\obj\Debug\netcoreapp2.1\DataLib.csprojAssemblyReference.cache
+C:\Projects\KaiRESTAPI\DataLib\obj\Debug\netcoreapp2.1\DataLib.csproj.CoreCompileInputs.cache
+C:\Projects\KaiRESTAPI\DataLib\obj\Debug\netcoreapp2.1\DataLib.AssemblyInfoInputs.cache
+C:\Projects\KaiRESTAPI\DataLib\obj\Debug\netcoreapp2.1\DataLib.AssemblyInfo.cs
+C:\Projects\KaiRESTAPI\DataLib\obj\Debug\netcoreapp2.1\DataLib.csproj.CopyComplete
+C:\Projects\KaiRESTAPI\DataLib\obj\Debug\netcoreapp2.1\DataLib.dll
+C:\Projects\KaiRESTAPI\DataLib\obj\Debug\netcoreapp2.1\DataLib.pdb

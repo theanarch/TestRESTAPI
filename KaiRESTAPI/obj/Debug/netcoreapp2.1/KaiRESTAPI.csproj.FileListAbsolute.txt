@@ -1,0 +1,17 @@
+C:\Projects\KaiRESTAPI\KaiRESTAPI\bin\Debug\netcoreapp2.1\KaiRESTAPI.deps.json
+C:\Projects\KaiRESTAPI\KaiRESTAPI\bin\Debug\netcoreapp2.1\KaiRESTAPI.runtimeconfig.json
+C:\Projects\KaiRESTAPI\KaiRESTAPI\bin\Debug\netcoreapp2.1\KaiRESTAPI.runtimeconfig.dev.json
+C:\Projects\KaiRESTAPI\KaiRESTAPI\bin\Debug\netcoreapp2.1\KaiRESTAPI.dll
+C:\Projects\KaiRESTAPI\KaiRESTAPI\bin\Debug\netcoreapp2.1\KaiRESTAPI.pdb
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.csprojAssemblyReference.cache
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.csproj.CoreCompileInputs.cache
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.RazorAssemblyInfo.cache
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.RazorAssemblyInfo.cs
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.AssemblyInfoInputs.cache
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.AssemblyInfo.cs
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.dll
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.pdb
+C:\Projects\KaiRESTAPI\KaiRESTAPI\bin\Debug\netcoreapp2.1\Models.dll
+C:\Projects\KaiRESTAPI\KaiRESTAPI\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Projects\KaiRESTAPI\KaiRESTAPI\obj\Debug\netcoreapp2.1\KaiRESTAPI.csproj.CopyComplete
